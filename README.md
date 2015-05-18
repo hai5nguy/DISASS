@@ -1,2 +1,6 @@
-npm install
-npm start
+#Directly Injected SASS
+   by Hai Nagooyen
+
+## Install and Run
+* `npm install`
+* `npm start`
